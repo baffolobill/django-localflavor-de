@@ -1,0 +1,92 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jaehong Kim <mixe@korea.com>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-de\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:43-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jaehong Kim <mixe@korea.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: de_states.py:5
+msgid "Baden-Wuerttemberg"
+msgstr "바덴-뷔르템베르크 주"
+
+#: de_states.py:6
+msgid "Bavaria"
+msgstr "바이에른 자유주"
+
+#: de_states.py:7
+msgid "Berlin"
+msgstr "베를린"
+
+#: de_states.py:8
+msgid "Brandenburg"
+msgstr "브란덴부르크 주"
+
+#: de_states.py:9
+msgid "Bremen"
+msgstr "브레멘 자유 한자 도시"
+
+#: de_states.py:10
+msgid "Hamburg"
+msgstr "함부르크 자유 한자 도시"
+
+#: de_states.py:11
+msgid "Hessen"
+msgstr "헤센 주"
+
+#: de_states.py:12
+msgid "Mecklenburg-Western Pomerania"
+msgstr "메클렌부르크-포어포메른 주"
+
+#: de_states.py:13
+msgid "Lower Saxony"
+msgstr "니더작센 주"
+
+#: de_states.py:14
+msgid "North Rhine-Westphalia"
+msgstr "노르트라인-베스트팔렌 주"
+
+#: de_states.py:15
+msgid "Rhineland-Palatinate"
+msgstr "라인란트-팔츠 주"
+
+#: de_states.py:16
+msgid "Saarland"
+msgstr "자를란트 주"
+
+#: de_states.py:17
+msgid "Saxony"
+msgstr "작센 자유주"
+
+#: de_states.py:18
+msgid "Saxony-Anhalt"
+msgstr "작센-안할트 주"
+
+#: de_states.py:19
+msgid "Schleswig-Holstein"
+msgstr "슐레스비히-홀슈타인 주"
+
+#: de_states.py:20
+msgid "Thuringia"
+msgstr "튀링겐 자유주"
+
+#: forms.py:20
+msgid "Enter a zip code in the format XXXXX."
+msgstr "우편번호를 입력하세요. (XXXXX 형식)"
+
+#: forms.py:46
+msgid ""
+"Enter a valid German identity card number in XXXXXXXXXXX-XXXXXXX-XXXXXXX-X "
+"format."
+msgstr "올바른 독일 주민번호(XXXXXXXXXXX-XXXXXXX-XXXXXXX-X 형식)를 입력하세요."

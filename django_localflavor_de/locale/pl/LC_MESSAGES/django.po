@@ -1,0 +1,97 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# angularcircle <angular.circle@gmail.com>, 2011.
+#   <angular.circle@gmail.com>, 2012.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# konryd <konryd@gmail.com>, 2011.
+# Roman Barczyński <rombar@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-de\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:42-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Roman Barczyński <rombar@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: de_states.py:5
+msgid "Baden-Wuerttemberg"
+msgstr "Badenia-Wirtembergia"
+
+#: de_states.py:6
+msgid "Bavaria"
+msgstr "Bawaria"
+
+#: de_states.py:7
+msgid "Berlin"
+msgstr ""
+
+#: de_states.py:8
+msgid "Brandenburg"
+msgstr "Brandenburgia"
+
+#: de_states.py:9
+msgid "Bremen"
+msgstr "Brema"
+
+#: de_states.py:10
+msgid "Hamburg"
+msgstr ""
+
+#: de_states.py:11
+msgid "Hessen"
+msgstr "Hesja"
+
+#: de_states.py:12
+msgid "Mecklenburg-Western Pomerania"
+msgstr "Meklemburgia-Pomorze Zachodnie"
+
+#: de_states.py:13
+msgid "Lower Saxony"
+msgstr "Dolna Saksonia"
+
+#: de_states.py:14
+msgid "North Rhine-Westphalia"
+msgstr "Nadrenia Północna-Westfalia"
+
+#: de_states.py:15
+msgid "Rhineland-Palatinate"
+msgstr "Nadrenia-Palatynat"
+
+#: de_states.py:16
+msgid "Saarland"
+msgstr "Kraj Saary"
+
+#: de_states.py:17
+msgid "Saxony"
+msgstr "Saksonia"
+
+#: de_states.py:18
+msgid "Saxony-Anhalt"
+msgstr "Saksonia-Anhalt"
+
+#: de_states.py:19
+msgid "Schleswig-Holstein"
+msgstr "Szlezwik-Holsztyn"
+
+#: de_states.py:20
+msgid "Thuringia"
+msgstr "Turyngia"
+
+#: forms.py:20
+msgid "Enter a zip code in the format XXXXX."
+msgstr "Wpisz kod pocztowy w formacie XXXXX."
+
+#: forms.py:46
+msgid ""
+"Enter a valid German identity card number in XXXXXXXXXXX-XXXXXXX-XXXXXXX-X "
+"format."
+msgstr ""
+"Podaj poprawny numer niemieckiego dowodu osobistego w formacie XXXXXXXXXXX-"
+"XXXXXXX-XXXXXXX-X."
